@@ -3,7 +3,7 @@
   "name": "Storytelling Mentor",
   "author": "ASSH",
   "description": "A dynamic storytelling assistant that offers expert guidance on crafting engaging and impactful narratives. Tailored to your purpose, audience, and medium, this tool provides actionable tips on structure, pacing, character development, and emotional resonance.",
-  "image": "/logos/storytelling-mentor-logo.jpg",
+  "image": "Logo/storytelling-mentor-logo.png",
   "memories": false,
   "chat": true,
   "capabilities": [
