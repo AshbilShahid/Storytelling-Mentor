@@ -1,5 +1,12 @@
 # Storytelling Mentor
 
+<br />
+<div align="center">
+  <a href="https://h.omi.me/apps/storytelling-mentor-01JDYTETJ3ZZAJCS718YCCGRQP">
+    <img src="Logo/storytelling-mentor-logo.png" alt="Storytelling Mentor" width="120" height="auto">
+  </a>
+</div>
+
 ## Overview
 Storytelling Mentor is an interactive assistant designed to guide and enhance your storytelling journey. Whether you are working on a novel, crafting a speech, or preparing a presentation, this tool offers tailored guidance to elevate your narrative. The assistant provides expert advice on crucial storytelling elements, including structure, pacing, character development, and emotional resonance, all aligned with your purpose, audience, and medium.
 
