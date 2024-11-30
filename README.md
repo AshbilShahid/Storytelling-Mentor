@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://h.omi.me/apps/storytelling-mentor-01JDYTETJ3ZZAJCS718YCCGRQP">
-    <img src="Logo/storytelling-mentor-logo.png" alt="Storytelling Mentor" width="220" height="auto">
+    <img src="Logo/storytelling-mentor-logo.png" alt="Storytelling Mentor" width="320" height="auto">
   </a>
 </div>
 
