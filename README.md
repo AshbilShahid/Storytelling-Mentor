@@ -7,6 +7,8 @@
   </a>
 </div>
 
+<Test out the app by clicking this Image.>
+
 ## Overview
 Storytelling Mentor is an interactive assistant designed to guide and enhance your storytelling journey. Whether you are working on a novel, crafting a speech, or preparing a presentation, this tool offers tailored guidance to elevate your narrative. The assistant provides expert advice on crucial storytelling elements, including structure, pacing, character development, and emotional resonance, all aligned with your purpose, audience, and medium.
 
