@@ -33,5 +33,5 @@ Dive deep into character creation with authentic motivations, complex personalit
 No matter where you are in your creative process, this storytelling mentor supports every step, whether brainstorming, refining, or developing a final product. Expect comprehensive, actionable advice, narrative refinement, and imaginative inspiration. With this guide by your side, your storytelling will not only resonate with your audience, but leave them fully immersed in your world.
 
 ## Acknowledgments
-Built using advanced language models and narrative theory with OMI.
+Built using advanced language models and narrative theory with [OMI](https://github.com/BasedHardware/Omi)  .
 Special thanks to the open-source community for contributions and feedback.
